@@ -1,0 +1,9 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "axis=y":  { "model": "stone_andesite" },
+        "axis=z":   { "model": "stone_andesite_side" },
+        "axis=x":   { "model": "stone_andesite_side", "y": 90 },
+        "axis=none": { "model": "stone_andesite" }
+    }
+}
