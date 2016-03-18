@@ -1,7 +1,7 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/), Model made by /u/Agenerick",
     "textures": {
-        "0": "models/Marlin Model 1893/MarlinModel1893"
+        "0": "models/MarlinModel1893/MarlinModel1893"
     },
     "elements": [
         {

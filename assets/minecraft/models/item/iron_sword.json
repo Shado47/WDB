@@ -341,13 +341,13 @@
             "scale": [1.7,1.7,1.7]
         },
 		"gui": {
-			"rotation": [45,-45,45],
+		 "rotation": [45,-45,45],
             "translation": [1,-1,0],
             "scale": [1.6,1.6,1.6]
 		},
 		"ground": {
-			"rotation": [0,0,45],
-            "translation": [0,-4,0],
+		 "rotation": [90,0,90],
+            "translation": [0,-6,0],
             "scale": [2,2,2]
 		},
 		"fixed": {

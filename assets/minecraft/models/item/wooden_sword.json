@@ -290,8 +290,8 @@
             "scale": [1.6,1.6,1.6]
 		},
 		"ground": {
-			"rotation": [0,0,45],
-            "translation": [0,-4,0],
+		 "rotation": [90,0,90],
+            "translation": [0,-6,0],
             "scale": [2,2,2]
 		},
 		"fixed": {
