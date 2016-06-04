@@ -1,7 +1,7 @@
 {
     "__comment": "Model made by Tomshalev01, do not steal this.",
     "textures": {
-        "0": "models/teleport"
+        "0": "guns/plaincolors"
     },
     "display": {
         "thirdperson_righthand": {

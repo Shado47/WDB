@@ -1,6 +1,6 @@
 {
     "textures": {
-        "0": "models/KitchenKnife/KitchenKnife"
+        "0": "guns/plaincolors"
     },
     "display": {
         "thirdperson_righthand": {

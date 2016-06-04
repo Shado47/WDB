@@ -2,7 +2,6 @@
     "__comment": "Model made by Tomshalev01, do not steal this.",
     "parent": "guns/fnfal/aim",
     "textures": {
-        "1": "guns/gold",
-        "2": "guns/gold"
+        "1": "guns/gold"
     }
 }

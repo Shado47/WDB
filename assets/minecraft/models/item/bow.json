@@ -72,7 +72,13 @@
             "predicate": {
                 "damage": 0.038961038961038961038961038961
             },
-            "model": "guns/ump45/gold"
+            "model": "guns/krissvector/krissvector"
+        },
+        {
+            "predicate": {
+                "damage": 0.0415584415584415584415584415584
+            },
+            "model": "guns/aks74u/aks74u"
         },
         {
             "predicate": {
