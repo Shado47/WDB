@@ -1,0 +1,17 @@
+{
+    "__comment": "Model made by Agenerick & Tomshalev01, Do not steal this.",
+    "parent": "guns/glock17/glock17",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,89.95,0],
+            "translation": [-8.94,9.15,-6],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [0,0,0],
+           "translation": [7,5,0],
+           "scale": [1.6,1.6,1.6]
+    }
+},
+    "elements": []
+}

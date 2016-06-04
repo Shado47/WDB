@@ -1,0 +1,17 @@
+{
+    "__comment": "Model made by Agenerick & Tomshalev01, Do not steal this.",
+    "parent": "guns/awm/gold",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,180,-5],
+            "translation": [-16,8,5],
+            "scale": [0.7,0.7,0.7]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0,-89.95,0],
+            "translation": [-12,10,-7],
+            "scale": [1,1,1]
+    }
+},
+    "elements": []
+}

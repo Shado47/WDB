@@ -1,0 +1,8 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/akm/akm",
+    "textures": {
+        "1": "guns/gold",
+        "2": "guns/gold"
+    }
+}

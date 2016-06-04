@@ -1,0 +1,20 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "textures": {
+        "0": "models/black"
+    },
+    "elements": [        {
+            "name": "butt1",
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 0.0, 0.0, 0.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 8.0, 4.0, 12.0, 8.0 ] },
+                "east": { "texture": "#0", "uv": [ 8.0, 4.0, 12.0, 8.0 ] },
+                "south": { "texture": "#0", "uv": [ 8.0, 4.0, 12.0, 8.0 ] },
+                "west": { "texture": "#0", "uv": [ 8.0, 4.0, 12.0, 8.0 ] },
+                "up": { "texture": "#0", "uv": [ 8.0, 4.0, 12.0, 8.0 ] },
+                "down": { "texture": "#0", "uv": [ 8.0, 4.0, 12.0, 8.0 ] }
+            }
+        }
+]
+}

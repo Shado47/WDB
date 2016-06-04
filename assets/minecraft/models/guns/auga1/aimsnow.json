@@ -1,0 +1,8 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/auga1/aim",
+    "textures": {
+        "0": "models/Steyr AUG A1/augsnow",
+        "1": "models/Steyr AUG A1/AUGScope"
+    }
+}

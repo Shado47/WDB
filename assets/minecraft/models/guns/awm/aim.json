@@ -1,0 +1,20 @@
+{
+    "__comment": "Model made by Agenerick & Tomshalev01, Do not steal this.",
+    "parent": "guns/awm/awm",
+    "textures": {
+        "2": "guns/scope2"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90.05,0],
+            "translation": [-8.97,9.921,-3],
+            "scale": [1,1,1]
+        },
+        "fixed": {
+		"rotation": [0,0,0],
+           "translation": [-9,14,0],
+           "scale": [1.4,1.4,1.4]
+    }
+},
+    "elements": []
+}

@@ -1,0 +1,12 @@
+{
+    "__comment": "Model made by Agenerick & Tomshalev01, Do not steal this.",
+    "parent": "guns/ssg69/ssg69",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,180,-5],
+            "translation": [-13,7,3],
+            "scale": [0.7,0.7,0.7]
+    }
+},
+    "elements": []
+}

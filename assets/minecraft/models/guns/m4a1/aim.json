@@ -1,0 +1,17 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/m4a1/m4a1",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90,-1.5],
+            "translation": [-8.96,9.64,-1.9],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [0,0,0],
+           "translation": [7,15,0],
+           "scale": [1.6,1.6,1.6]
+    }
+},
+    "elements": []
+}

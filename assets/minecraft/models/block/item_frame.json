@@ -1,7 +1,7 @@
 {
     "textures": {
         "particle": "blocks/nether_brick",
-        "wood": "blocks/nether_brick",
+        "wood": "blocks/itemframe_background",
         "back": "blocks/itemframe_background"
     },
     "elements": [

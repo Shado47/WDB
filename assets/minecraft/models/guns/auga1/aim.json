@@ -1,0 +1,17 @@
+{
+    "__comment": "Model made by Agenerick & Tomshalev01, Do not steal this.",
+    "parent": "guns/auga1/auga1",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90.05,0],
+            "translation": [-8.97,4.52,2],
+            "scale": [2,2,2]
+        },
+        "fixed": {
+		"rotation": [0,0,0],
+           "translation": [5,5,-3],
+           "scale": [1.2,1.2,1.2]
+    }
+},
+    "elements": []
+}

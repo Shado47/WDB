@@ -1,0 +1,17 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/krissvector/krissvector",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,180,-5],
+            "translation": [-12,6.2,5],
+            "scale": [0.5,0.5,0.5]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0,-180,5],
+            "translation": [-12,6.2,5],
+            "scale": [0.5,0.5,0.5]
+    }
+},
+    "elements": []
+}

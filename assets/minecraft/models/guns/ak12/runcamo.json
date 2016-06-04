@@ -1,0 +1,22 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/ak12/camo",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,180,-5],
+            "translation": [-12,6.2,6],
+            "scale": [0.5,0.5,0.5]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0,-89.91,0],
+            "translation": [-11,8.4,-1.3],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [90,0,40],
+           "translation": [2,-15,-8],
+           "scale": [1.1,1.1,1.1]
+    }
+},
+    "elements": []
+}

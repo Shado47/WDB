@@ -1,0 +1,12 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/coltpython/coltpython",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90,30],
+            "translation": [-5,9,0],
+            "scale": [0.5,0.5,0.5]
+    }
+},
+    "elements": []
+}

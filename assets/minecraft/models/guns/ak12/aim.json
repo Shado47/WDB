@@ -1,0 +1,22 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/ak12/ak12",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,89.9,0],
+            "translation": [-8.94,8.3,-1.3],
+            "scale": [0.7,0.7,0.7]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0,-89.91,0],
+            "translation": [-8.98,8.4,-1.3],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [0,0,0],
+           "translation": [2,5,0],
+           "scale": [1.1,1.1,1.1]
+    }
+},
+    "elements": []
+}

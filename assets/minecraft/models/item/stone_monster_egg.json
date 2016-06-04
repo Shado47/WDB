@@ -1,8 +1,44 @@
 {
-    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/), Model made by /u/Agenerick",
     "textures": {
         "0": "models/Binoculars/Binoculars"
     },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [0,90,0],
+            "translation": [ -2, 2, -3],
+            "scale":[ 0.55, 0.55, 0.55]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [0,-90,0],
+            "translation": [ -2, 2, -3],
+            "scale":[ 0.55, 0.55, 0.55]
+        },
+        "firstperson_righthand": {
+            "rotation": [0,90,0],
+            "translation": [-5,6.2,1],
+            "scale": [0.5,0.5,0.5]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0,-89.91,0],
+            "translation": [-8.98,8.4,-1.3],
+            "scale": [0.7,0.7,0.7]
+        },
+        "gui": {
+		 "rotation": [0,90,90],
+            "translation": [0,2,0],
+            "scale": [1,1,1]
+        },
+        "ground": {
+		 "rotation": [90,0,90],
+            "translation": [-4,0,10],
+            "scale": [0.5,0.5,0.5]
+        },
+        "fixed": {
+		"rotation": [180,0,90],
+           "translation": [-4,-10,-9],
+           "scale": [1.1,1.1,1.1]
+    }
+},
     "elements": [
         {
             "name": "LEyeLens1",
@@ -2001,37 +2037,5 @@
                 "down": { "texture": "#0", "uv": [ 0.1, 1.1, 0.9, 1.9 ] }
             }
         }
-    ],
-    "display": {
-        "thirdperson": {
-            "rotation": [90,-90,0],
-            "translation": [-0.8,2.2,0.25],
-            "scale": [0.5,0.5,0.5]
-        },
-        "firstperson": {
-            "rotation": [0,-20,-90],
-            "translation": [0,0,1],
-            "scale": [1.5,1.5,1.5]
-        },
-		"gui": {
-			"rotation": [-35,-105,45],
-            "translation": [0,0.2,0.4],
-            "scale": [1.4,1.4,1.4]
-		},
-		"ground": {
-			"rotation": [0,0,0],
-            "translation": [0,0,0],
-            "scale": [1.5,1.5,1.5]
-		},
-		"fixed": {
-			"rotation": [-45,-90,90],
-            "translation": [0,0,-3],
-            "scale": [1.5,1.5,1.5]
-		},
-		"head": {
-			"rotation": [1,90,0],
-			"translation": [0,1.1,-6.5],
-			"scale": [0.8,0.8,0.8]
-		}
-    }
+    ]
 }

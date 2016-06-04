@@ -1,0 +1,22 @@
+{
+    "__comment": "Model made by Agenerick & Tomshalev01, Do not steal this.",
+    "parent": "guns/mp5k/mp5k",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,180,-5],
+            "translation": [-15,6.5,6],
+            "scale": [0.5,0.5,0.5]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0,-89.95,-0.3],
+            "translation": [-11,9.1,-6],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [90,0,45],
+           "translation": [5,-15,4],
+           "scale": [1.4,1.4,1.4]
+    }
+},
+    "elements": []
+}

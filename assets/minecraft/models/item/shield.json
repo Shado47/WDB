@@ -1,0 +1,311 @@
+{
+    "parent": "guns/air",
+    "overrides": [
+        {
+            "predicate": {
+                "damage": 0.0022735705
+            },
+            "model": "guns/coltpython/coltpython"
+        },
+        {
+            "predicate": {
+                "damage": 0.004547141
+            },
+            "model": "guns/waltherp38/waltherp38"
+        },
+        {
+            "predicate": {
+                "damage": 0.0068207118
+            },
+            "model": "guns/glock17/glock17"
+        },
+        {
+            "predicate": {
+                "damage": 0.0090942821
+            },
+            "model": "guns/p229/p229"
+        },
+        {
+            "predicate": {
+                "damage": 0.0113678528
+            },
+            "model": "guns/m1911/m1911"
+        },
+        {
+            "predicate": {
+                "damage": 0.0136414235
+            },
+            "model": "guns/coltspecial/coltspecial"
+        },
+        {
+            "predicate": {
+                "damage": 0.0227357056
+            },
+            "model": "guns/uzi/uzi"
+        },
+        {
+            "predicate": {
+                "damage": 0.0250092763
+            },
+            "model": "guns/uzi/gold"
+        },
+        {
+            "predicate": {
+                "damage": 0.0272828471
+            },
+            "model": "guns/mp5k/mp5k"
+        },
+        {
+            "predicate": {
+                "damage": 0.0318299867
+            },
+            "model": "guns/mp5k/gold"
+        },
+        {
+            "predicate": {
+                "damage": 0.0318299867
+            },
+            "model": "guns/ump45/ump45"
+        },
+        {
+            "predicate": {
+                "damage": 0.0341035575
+            },
+            "model": "guns/ump45/gold"
+        },
+        {
+            "predicate": {
+                "damage": 0.0454714112
+            },
+            "model": "guns/mosin/mosin"
+        },
+        {
+            "predicate": {
+                "damage": 0.0477449819
+            },
+            "model": "guns/dragunov/dragunov"
+        },
+        {
+            "predicate": {
+                "damage": 0.0500185527
+            },
+            "model": "guns/dragunov/gold"
+        },
+        {
+            "predicate": {
+                "damage": 0.0522921234
+            },
+            "model": "guns/winchester/winchester"
+        },
+        {
+            "predicate": {
+                "damage": 0.0545656942
+            },
+            "model": "guns/winchester/gold"
+        },
+        {
+            "predicate": {
+                "damage": 0.0568392649
+            },
+            "model": "guns/ssg69/ssg69"
+        },
+        {
+            "predicate": {
+                "damage": 0.059112832
+            },
+            "model": "guns/awm/awm"
+        },
+        {
+            "predicate": {
+                "damage": 0.0613864064
+            },
+            "model": "guns/awm/black"
+        },
+        {
+            "predicate": {
+                "damage": 0.0636599734
+            },
+            "model": "guns/awm/snow"
+        },
+        {
+            "predicate": {
+                "damage": 0.0659335479
+            },
+            "model": "guns/awm/navy"
+        },
+        {
+            "predicate": {
+                "damage": 0.0909428224
+            },
+            "model": "guns/ak47/ak47"
+        },
+        {
+            "predicate": {
+                "damage": 0.0932163894
+            },
+            "model": "guns/ak47/gold"
+        },
+        {
+            "predicate": {
+                "damage": 0.0954899639
+            },
+            "model": "guns/fnfal/fnfal"
+        },
+        {
+            "predicate": {
+                "damage": 0.0977635309
+            },
+            "model": "guns/fnfal/gold"
+        },
+        {
+            "predicate": {
+                "damage": 0.1000371054
+            },
+            "model": "guns/akm/akm"
+        },
+        {
+            "predicate": {
+                "damage": 0.1023106724
+            },
+            "model": "guns/akm/gold"
+        },
+        {
+            "predicate": {
+                "damage": 0.1045842469
+            },
+            "model": "guns/m16a1/m16a1"
+        },
+        {
+            "predicate": {
+                "damage": 0.1091313884
+            },
+            "model": "guns/auga1/auga1"
+        },
+        {
+            "predicate": {
+                "damage": 0.1114049554
+            },
+            "model": "guns/auga1/black"
+        },
+        {
+            "predicate": {
+                "damage": 0.1136785299
+            },
+            "model": "guns/auga1/snow"
+        },
+        {
+            "predicate": {
+                "damage": 0.1159521043
+            },
+            "model": "guns/auga1/navy"
+        },
+        {
+            "predicate": {
+                "damage": 0.1250463873
+            },
+            "model": "guns/m4a1/m4a1"
+        },
+        {
+            "predicate": {
+                "damage": 0.1273199469
+            },
+            "model": "guns/m4a1/snow"
+        },
+        {
+            "predicate": {
+                "damage": 0.1295935214
+            },
+            "model": "guns/m4a1/red"
+        },
+        {
+            "predicate": {
+                "damage": 0.1318670958
+            },
+            "model": "guns/m4a1/navy"
+        },
+        {
+            "predicate": {
+                "damage": 0.1341406703
+            },
+            "model": "guns/m4a1/camo"
+        },
+        {
+            "predicate": {
+                "damage": 0.1386878043
+            },
+            "model": "guns/g36c/g36c"
+        },
+        {
+            "predicate": {
+                "damage": 0.1432349384
+            },
+            "model": "guns/ar15/ar15"
+        },
+        {
+            "predicate": {
+                "damage": 0.1455085129
+            },
+            "model": "guns/ar15/snow"
+        },
+        {
+            "predicate": {
+                "damage": 0.1477820873
+            },
+            "model": "guns/ar15/red"
+        },
+        {
+            "predicate": {
+                "damage": 0.1500556618
+            },
+            "model": "guns/ar15/navy"
+        },
+        {
+            "predicate": {
+                "damage": 0.1523292214
+            },
+            "model": "guns/ar15/camo"
+        },
+        {
+            "predicate": {
+                "damage": 0.1591499448
+            },
+            "model": "guns/tavor/tavor"
+        },
+        {
+            "predicate": {
+                "damage": 0.1659706533
+            },
+            "model": "guns/ak12/ak12"
+        },
+        {
+            "predicate": {
+                "damage": 0.1682442278
+            },
+            "model": "guns/ak12/snow"
+        },
+        {
+            "predicate": {
+                "damage": 0.1705177873
+            },
+            "model": "guns/ak12/red"
+        },
+        {
+            "predicate": {
+                "damage": 0.1727913618
+            },
+            "model": "guns/ak12/navy"
+        },
+        {
+            "predicate": {
+                "damage": 0.1750649363
+            },
+            "model": "guns/ak12/camo"
+        },
+        {
+            "predicate": {
+                "damage": 0.1773385108
+            },
+            "model": "guns/ak12/gold"
+        }
+    ]
+}

@@ -1,8 +1,49 @@
 {
-    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/), Model made by /u/Agenerick",
+    "__comment": "Property of Fights of Cydonia",
     "textures": {
-        "0": "models/Ammobox/Ammobox"
+        "0": "models/Ammobox/Ammobox",
+        "particle": "models/Ammobox/Ammobox"
+        
     },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [90,90,0],
+            "translation": [ 0, -2, -3],
+            "scale":[ 1, 1, 1]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [90,-90,0],
+            "translation": [ 0, -2, -3],
+            "scale":[ 1, 1, 1]
+        },
+        "firstperson_righthand": {
+            "rotation": [0,90,0],
+            "translation": [0,5,1],
+            "scale": [1,1,1]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0,-90,0],
+            "translation": [0,5,1],
+            "scale": [1,1,1]
+        },
+        "gui": {
+		 "rotation": [0,0,0],
+            "translation": [0.5,2,0],
+            "scale": [1,1,1]
+        },
+        "ground": {
+		 "rotation": [0,0,0],
+            "translation": [0,2,0],
+            "scale": [1,1,1]
+        },
+        "fixed": {
+		"fixed": {
+		"rotation": [0,0,45],
+            "translation": [1,-1,0],
+            "scale": [1,1,1]
+        }
+    }
+},
     "elements": [
         {
             "name": "body1",
@@ -575,32 +616,5 @@
                 "down": { "texture": "#0", "uv": [ 0.1, 1.1, 0.9, 1.9 ] }
             }
         }
-    ],
-    "display": {
-        "thirdperson": {
-            "rotation": [0,270,170],
-            "translation": [0,3,-0.5],
-            "scale": [1,1,1]
-        },
-        "firstperson": {
-            "rotation": [0,90,0],
-            "translation": [-2,8,0],
-            "scale": [2,2,2]
-        },
-		"gui": {
-			"rotation": [0,0,0],
-            "translation": [0,1,0],
-            "scale": [1.3,1.3,1.3]
-		},
-		"ground": {
-			"rotation": [0,0,0],
-            "translation": [0,-15,0],
-            "scale": [3.6,3.6,3.6]
-		},
-		"fixed": {
-			"rotation": [0,0,0],
-            "translation": [0,0,0],
-            "scale": [1.3,1.3,1.3]
-		}
-    }
+    ]
 }

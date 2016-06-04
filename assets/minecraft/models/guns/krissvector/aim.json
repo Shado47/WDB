@@ -1,0 +1,15 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/krissvector/krissvector",
+    "textures": {
+        "3": "guns/holo1"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,90,0],
+            "translation": [-8.95,7.28,1],
+            "scale": [0.7,0.7,0.7]
+    }
+},
+    "elements": []
+}

@@ -1,0 +1,22 @@
+{
+    "__comment": "Model made by Agenerick & Tomshalev01, Do not steal this.",
+    "parent": "guns/ar15/ar15",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,170,-10],
+            "translation": [-18,7,4],
+            "scale": [0.7,0.7,0.7]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0,-90,1.5],
+            "translation": [-10.972,9.64,-1.9],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [90,0,45],
+           "translation": [7,-14,3],
+           "scale": [1.6,1.6,1.6]
+    }
+},
+    "elements": []
+}

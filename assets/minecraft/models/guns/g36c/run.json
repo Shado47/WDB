@@ -1,0 +1,22 @@
+{
+    "__comment": "Model made by Tomshalev01, do not steal this.",
+    "parent": "guns/g36c/g36c",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0,180,-5],
+            "translation": [-13,10,5],
+            "scale": [0.6,0.6,0.6]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0,-89.91,0],
+            "translation": [-11.98,11.78,0],
+            "scale": [0.7,0.7,0.7]
+        },
+        "fixed": {
+		"rotation": [90,0,40],
+           "translation": [2,-15,-8],
+           "scale": [1.1,1.1,1.1]
+    }
+},
+    "elements": []
+}
